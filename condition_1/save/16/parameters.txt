@@ -1,0 +1,25 @@
+Large scale SEM simulation
+
+numMeasures = 100
+numLatents = 0
+avgDegree = 6
+maxDegree = 100
+maxIndegree = 100
+maxOutdegree = 100
+connected = false
+numRuns = 10
+differentGraphs = true
+coefLow = 0.2
+coefHigh = 0.9
+varLow = 1
+varHigh = 3
+coefSymmetric = true
+meanLow = 0
+meanHigh = 0
+verbose = false
+intervalBetweenShocks = 10
+intervalBetweenRecordings = 10
+sampleSize = 100
+fisherEpsilon = 0.001
+percentDiscrete = 0.0
+randomizeColumns = true
