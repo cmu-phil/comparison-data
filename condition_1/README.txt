@@ -1,7 +1,8 @@
 7/1/2017
 
 The data for this condition were generated in using Tetrad's algorithms comparison tool,
-using the following script:
+using the following script. Note that the order of the columns in each dataset has
+been randomized to avoid order effects.
 
 ///////////////////////////////////////////////////////////////////////////////
 // For information as to what this class does, see the Javadoc, below.       //
