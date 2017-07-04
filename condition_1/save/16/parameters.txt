@@ -1,4 +1,4 @@
-Large scale SEM simulation
+Linear Fisher model simulation
 
 numMeasures = 100
 numLatents = 0
