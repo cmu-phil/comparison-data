@@ -4,6 +4,8 @@ The data for this condition were generated in using Tetrad's algorithm compariso
 using the following script. Note that the order of the columns in each dataset has
 been randomized to avoid order effects.
 
+This is a case of data simulated from linear, Gaussian models with no latent variables. Cases for 50, 100, and 500 variables are condsidered, with average degree of graph 2, 4, and 6, with sample sizes 100, 500, and 1000, for 27 total combinations. Coefficients are drawn uniformly from +-(0.2, 0.9), exogenous variances from (1, 3). For each combination, 10 datasets are simulated. The method of simualtion follows the Fisher model, with exogenous shocks every 10 steps and measurements every 10 steps, which means that the data have in all cases reached equilibrium. If all variation fron one time step to the next is within an epsilon of 0.001, the point is recorded, and the nexrt shock is applied.
+
 ///////////////////////////////////////////////////////////////////////////////
 // For information as to what this class does, see the Javadoc, below.       //
 // Copyright (C) 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006,       //
