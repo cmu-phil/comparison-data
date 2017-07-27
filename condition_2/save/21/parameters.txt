@@ -1,0 +1,20 @@
+Linear, Gaussian SEM simulation using Graph constructed by adding random forward edges
+
+numMeasures = 500
+numLatents = 0
+avgDegree = 2
+maxDegree = 100
+maxIndegree = 100
+maxOutdegree = 100
+connected = false
+numRuns = 10
+differentGraphs = true
+coefLow = 0.2
+coefHigh = 0.9
+coefSymmetric = true
+varLow = 1
+varHigh = 3
+sampleSize = 1000
+standardize = false
+measurementVariance = 0.0
+randomizeColumns = true
